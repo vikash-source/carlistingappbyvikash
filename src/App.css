@@ -1,0 +1,60 @@
+@media (max-width: 992px){
+	.top_menu_item .nav .for-mobile{display:none;}
+	header{position:relative;}
+	.top_menu_item {justify-content: center!important;position: relative;z-index: 999;}
+	.featured{width:100%;}
+	.rights{display:block!important;text-align:center;}
+	.rights p{padding: 0px 0 0px;}
+	.top_menu_item .nav{flex-wrap:nowrap;align-items: center;}
+	.storage_page{margin-top: 0px!important;}
+	.left-side-menu {padding: 20px;background: #f5f6f6;max-width: 100%;width: 100%;flex: 0 0 100%;margin-right: 20px;}
+	.page-up-down {padding-top: 10px;}
+	.page-up-down .pagination .page-item .page-link {    border: none;padding: 7px 16px; width: 14px;font-size: 13px;}	
+	.menu-button{display: block!important;}
+	.featured .sort_by{padding: 20px 0 20px;}
+	.featured .sort_by .feature_car,.featured .sort_by .result{width:100%;}
+	.car_manufacture{padding: 10px 0;}
+	.feature_car .form-select{padding: 1px 10px;width: 116px;height: 32px;}
+	.feature_car label{font-size:14px;font-weight:700;    min-width: 70px;}
+	.result {justify-content:flex-end;}
+	.result p{font-size:14px;padding-right: 10px;}
+	.result ul{padding-left: 0px;}
+	.footer{width:100%;}
+	.storage_page img.w-100{height:400px;}
+	.product-details {padding-left: 0px;margin-top: 0px;margin-bottom: 20px;}
+	.product-details h2{font-size: 18px;}
+	.product-price h2{font-size:20px;}
+	.product_details.mt-5{margin-top:30px !important;}
+	.colum-reverse{flex-direction: column-reverse;}
+	
+}
+
+@media (max-width: 767px){
+	section{padding: 40px 0px;}
+	
+	.top_menu_item{flex:0 0 10%;}
+	.result p{font-size: 0px;}
+	.top_menu_item .nav .nav-link{padding:0px;}
+	.top_menu_item .nav .nav-link.mobile_nav{font-size:0px;padding:0 8px;}
+	.top_menu_item .nav .mobile_nav span img{width: 20px;}
+	.top_menu_item .nav .nav-link{font-size:12px;}
+	.selling_price{margin-top:10px;}
+	.storage_page img.w-100 {    height: 120px}
+	.product_details{    padding: 20px;}
+	.storage_page{border-top: 4px solid #fcad39;}
+	.storage_page {margin-top: 10px!important;}
+	.product_details .d-flex{display: block !important;}
+	.product_details .d-flex img{margin-right:0!important;width:100%;margin-bottom:20px;}
+	.product_details ul li, .order_details ul li, .order_details ul li:nth-child(even){font-size: 14px;line-height: 30px;}
+	.top_menu_item .dropdown button.dropdown-toggle .customer_name{display:none;}
+	.top_menu_item .dropdown button.dropdown-toggle:after{position: absolute;top: 15px;right: 0;}
+	.top_menu_item .dropdown button.dropdown-toggle{padding: 0px 6px 0px 20px;}
+	.storage_page .paynow{position: static;margin-top: 20px;}
+	.rights .d-flex{display:block!important;}
+	.car_manufacture span{padding: 3px 10px;}
+	.mt-5.about_bottom{margin-top:0px !important;}	
+	.product-description h2 {
+        font-size: 18px;
+    }
+}
+

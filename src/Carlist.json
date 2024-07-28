@@ -1,0 +1,199 @@
+{
+    "cars": [
+    {
+        "id":1,
+        "image": "https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/vdat/submodels/bentley_mulsanne_bentley-mulsanne_2018-1640113210783.jpg?fill=18:11&resize=768:*",
+        "images":["https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/vdat/submodels/bentley_mulsanne_bentley-mulsanne_2018-1640113210783.jpg?fill=18:11&resize=768:*","https://platform.cstatic-images.com/in/v2/stock_photos/3f44f68a-5f41-428a-a4d1-4251dd475956/3c638f7c-efdf-469c-bce8-e15b90a95f23.png","https://platform.cstatic-images.com/in/v2/stock_photos/3f44f68a-5f41-428a-a4d1-4251dd475956/f2054047-8014-49d0-a04e-528553df9722.png"],
+        "title": "Bentley Mulsanne",
+        "make": "Bentley",
+        "model": "Mulsanne",
+        "year":"2018",
+        "price":"20292062",
+        "specifications":"GCC Specs",
+        "decrption":"Bentley Mulsanne is a 5 seater Sedan with the last recorded price of Rs. 5.56 Crore. It is available in 1 variant, 6752 cc engine option and 1 transmission option : Automatic. The Mulsanne is available in 21 colours. Bentley Mulsanne mileage is 5.91 kmpl."
+    },
+    {
+        "id":2,
+        "image": "https://www.edmunds.com/assets/m/ferrari/ff/2012/oem/2012_ferrari_ff_coupe_base_fq_oem_1_815.jpg",
+        "images":["https://www.edmunds.com/assets/m/ferrari/ff/2012/oem/2012_ferrari_ff_coupe_base_fq_oem_1_815.jpg","https://media.ed.edmunds-media.com/ferrari/ff/2012/oem/2012_ferrari_ff_coupe_base_fq_oem_10_815.jpg","https://media.ed.edmunds-media.com/ferrari/ff/2012/oem/2012_ferrari_ff_coupe_base_fq_oem_13_815x543.jpg"],
+        "title": "2015 Ferrari FF",
+        "make": "Ferrari",
+        "model": "FF",
+        "year":"2015",
+        "price":"12198037",
+        "specifications":"GCC Specs",
+        "decrption":"2015 Ferrari FF, 6.3 V12 4WD, 651bhp, 7-Speed Auto-Gearbox."
+    },
+
+    {
+        "id":3,
+        "image": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2023-Suzuki-Swift-GL-S-Plus-hatchback-black-James-Cleary-1001x565p-%281%29.jpg",
+        "images":["https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2023-Suzuki-Swift-GL-S-Plus-hatchback-black-James-Cleary-1001x565p-%281%29.jpg","https://d2m3nfprmhqjvd.cloudfront.net/blog/20220228141415/Spinny-Assured-Maruti-Suzuki-Swift-AMT-1160x653.jpg"],
+        "title": "Suzuki Swift",
+        "make": "Suzuki",
+        "model": "Swift GL",
+        "year":"2023",
+        "price":"1423282",
+        "specifications":"Multi Point Fuel Injection",
+        "decrption":"The 2023 Suzuki Swift GL S is a front wheel drive 5 Door Hatchback that was released to the Australian market on 2nd January 2022 classified as a AZ SERIES II MY22. The Suzuki Swift is regarded as a light up to 25k built in Japan with prices from a dealer as a used car starting at $24,700."
+    },
+    {
+        "id":4,
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-side-view.jpeg?isig=0&q=80",
+        "images":["https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80","https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-side-view.jpeg?isig=0&q=80","https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-rear-view.jpeg?isig=0&q=80"],
+        "title": "Breza X2",
+        "make": "Breza Motors",
+        "model": "X2",
+        "year":"2024",
+        "price":"2930287",
+        "specifications":"2.0L Turbocharged I4",
+        "decrption":"The Breza X2 is a versatile and stylish compact SUV designed for both urban and off-road adventures. Its powerful 2.0L turbocharged engine delivers impressive performance, while the all-wheel-drive system ensures stability and control in various driving conditions. The interior is spacious, offering comfortable seating for up to five passengers and ample cargo space for all your gear. Advanced safety features provide peace of mind, and the state-of-the-art infotainment system keeps you connected and entertained on the go. With its sleek design and robust capabilities, the Breza X2 is the perfect companion for any journey."
+    },
+    {
+        "id":5,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/10best-trucks-suvs-2023-kia-telluride-105-1673299910.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "images":["https://hips.hearstapps.com/hmg-prod/images/10best-trucks-suvs-2023-kia-telluride-105-1673299910.jpg?crop=1xw:1xh;center,top&resize=980:*","https://hips.hearstapps.com/hmg-prod/images/10best-trucks-suvs-2023-kia-telluride-101-1673299910.jpg?crop=1xw:1xh;center,top&resize=980:*","https://hips.hearstapps.com/hmg-prod/images/10best-trucks-suvs-2023-kia-telluride-112-1673299911.jpg?crop=1xw:1xh;center,top&resize=980:*"],
+        "title": "Kia Telluride",
+        "make": "Kia",
+        "model": "Telluride",
+        "year":"2024",
+        "price":"3348900",
+        "specifications":"3.8L V6",
+        "decrption":"The 2024 Kia Telluride is a midsize SUV that combines style, comfort, and practicality. With a spacious and upscale interior, it offers seating for up to eight passengers, making it ideal for families and long road trips. The powerful 3.8L V6 engine delivers smooth and responsive performance, while advanced safety features and technology ensure a safe and enjoyable driving experience. The Telluride's impressive towing capacity and versatile cargo space make it a great choice for those who need both utility and luxury in their vehicle."
+    },
+    {
+        "id":6,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/2021-ford-mustang-mach-e-gt-1665-1640391077.jpg?crop=0.941xw:0.703xh;0.0545xw,0.264xh&resize=1200:*",
+        "images":["https://hips.hearstapps.com/hmg-prod/images/2021-ford-mustang-mach-e-gt-1665-1640391077.jpg?crop=0.941xw:0.703xh;0.0545xw,0.264xh&resize=1200:*","https://hips.hearstapps.com/hmg-prod/images/2021-ford-mustang-mach-e-gt-689-1640391074.jpg?crop=1xw:1xh;center,top&resize=980:*","https://hips.hearstapps.com/hmg-prod/images/2021-ford-mustang-mach-e-gt-589-1640391075.jpg?crop=0.699xw:0.530xh;0.269xw,0.439xh&resize=980:*"],
+        "title": "Ford Mustang Mach-E",
+        "make": "Ford",
+        "model": "Mach-E",
+        "year":"2022",
+        "price":"3674999",
+        "specifications":"Electric motor",
+        "decrption":"The 2022 Ford Mustang Mach-E is a groundbreaking all-electric SUV that combines the iconic Mustang heritage with cutting-edge electric vehicle technology. This stylish and high-performance vehicle offers a blend of exhilarating speed, impressive range, and advanced features. The Mach-E’s sleek design and spacious interior make it a versatile choice for both daily commuting and long-distance travel. With multiple configurations and battery options, it caters to a variety of driving preferences and needs. The Mustang Mach-E represents Ford's commitment to sustainability while delivering the thrill and performance that the Mustang name is known for."
+    },
+    {
+        "id":7,
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/10497/1697697558001/front-left-side-47.jpg?tr=w-664",
+        "images":["https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/10497/1697697558001/front-left-side-47.jpg?tr=w-664","https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/10497/1689584210485/side-view-(left)-90.jpg?tr=w-664","https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/10497/1689584210485/rear-left-view-121.jpg?tr=w-664"],
+        "title": "Baluno Viper",
+        "make": "Baluno Motors",
+        "model": "Viper",
+        "year":"2021",
+        "price":"3767512",
+        "specifications":"3.0L V6 Turbo",
+        "decrption":"The 2021 Baluno Viper is a premium midsize sedan designed to deliver an exhilarating driving experience while maintaining comfort and luxury. With its powerful V6 engine, the Viper offers impressive acceleration and dynamic handling. The sophisticated all-wheel-drive system ensures stability and confidence on any road surface. Inside, the Viper boasts a spacious, well-appointed cabin with high-quality materials and advanced technology. The latest safety and driver assistance features provide peace of mind, making the Baluno Viper an excellent choice for those seeking both performance and practicality in their daily drive."
+    },
+    {
+        "id":8,
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/swift-exterior-right-front-three-quarter-64.jpeg?isig=0&q=80",
+        "images":["https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/swift-exterior-right-front-three-quarter-64.jpeg?isig=0&q=80","https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/swift-exterior-right-front-three-quarter-63.jpeg?q=80","https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/swift-exterior-right-rear-three-quarter.jpeg?q=80"],
+        "title": "Suzuki Swift",
+        "make": "Suzuki",
+        "model": "Swift",
+        "year":"2023",
+        "price":"1255837",
+        "specifications":"1.2L Dualjet Petrol Engine",
+        "decrption":"The Suzuki Swift is a compact hatchback known for its sporty design, peppy performance, and excellent fuel efficiency. The 2023 model features a refreshed exterior with a bold front grille, LED projector headlamps, and sleek lines that give it a modern and dynamic look. Inside, the Swift offers a spacious cabin with comfortable seating for five, a user-friendly infotainment system, and a host of safety features including ABS, dual airbags, and a reverse parking camera."
+    },
+    {
+        "id":9,
+        "image": "https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/vdat/submodels/bentley_mulsanne_bentley-mulsanne_2018-1640113210783.jpg?fill=18:11&resize=768:*",
+        "images":["https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/vdat/submodels/bentley_mulsanne_bentley-mulsanne_2018-1640113210783.jpg?fill=18:11&resize=768:*","https://platform.cstatic-images.com/in/v2/stock_photos/3f44f68a-5f41-428a-a4d1-4251dd475956/3c638f7c-efdf-469c-bce8-e15b90a95f23.png","https://platform.cstatic-images.com/in/v2/stock_photos/3f44f68a-5f41-428a-a4d1-4251dd475956/f2054047-8014-49d0-a04e-528553df9722.png"],
+        "title": "Bentley Mulsanne",
+        "make": "Bentley",
+        "model": "Mulsanne",
+        "year":"2020",
+        "price":"20292062",
+        "specifications":"GCC Specs",
+        "decrption":"Bentley Mulsanne is a 5 seater Sedan with the last recorded price of Rs. 5.56 Crore. It is available in 1 variant, 6752 cc engine option and 1 transmission option : Automatic. The Mulsanne is available in 21 colours. Bentley Mulsanne mileage is 5.91 kmpl."
+    },
+    {
+        "id":10,
+        "image": "https://www.edmunds.com/assets/m/ferrari/ff/2012/oem/2012_ferrari_ff_coupe_base_fq_oem_1_815.jpg",
+        "images":["https://www.edmunds.com/assets/m/ferrari/ff/2012/oem/2012_ferrari_ff_coupe_base_fq_oem_1_815.jpg","https://media.ed.edmunds-media.com/ferrari/ff/2012/oem/2012_ferrari_ff_coupe_base_fq_oem_10_815.jpg","https://media.ed.edmunds-media.com/ferrari/ff/2012/oem/2012_ferrari_ff_coupe_base_fq_oem_13_815x543.jpg"],
+        "title": "2015 Ferrari FF",
+        "make": "Ferrari",
+        "model": "FF",
+        "year":"2018",
+        "price":"12198037",
+        "specifications":"GCC Specs",
+        "decrption":"2015 Ferrari FF, 6.3 V12 4WD, 651bhp, 7-Speed Auto-Gearbox."
+    },
+
+    {
+        "id":11,
+        "image": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2023-Suzuki-Swift-GL-S-Plus-hatchback-black-James-Cleary-1001x565p-%281%29.jpg",
+        "images":["https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2023-Suzuki-Swift-GL-S-Plus-hatchback-black-James-Cleary-1001x565p-%281%29.jpg","https://d2m3nfprmhqjvd.cloudfront.net/blog/20220228141415/Spinny-Assured-Maruti-Suzuki-Swift-AMT-1160x653.jpg"],
+        "title": "Suzuki Swift",
+        "make": "Suzuki",
+        "model": "Swift GL",
+        "year":"2020",
+        "price":"1423282",
+        "specifications":"Multi Point Fuel Injection",
+        "decrption":"The 2023 Suzuki Swift GL S is a front wheel drive 5 Door Hatchback that was released to the Australian market on 2nd January 2022 classified as a AZ SERIES II MY22. The Suzuki Swift is regarded as a light up to 25k built in Japan with prices from a dealer as a used car starting at $24,700."
+    },
+    {
+        "id":12,
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-side-view.jpeg?isig=0&q=80",
+        "images":["https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80","https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-side-view.jpeg?isig=0&q=80","https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-rear-view.jpeg?isig=0&q=80"],
+        "title": "Breza X2",
+        "make": "Breza Motors",
+        "model": "X2",
+        "year":"2018",
+        "price":"2930287",
+        "specifications":"2.0L Turbocharged I4",
+        "decrption":"The Breza X2 is a versatile and stylish compact SUV designed for both urban and off-road adventures. Its powerful 2.0L turbocharged engine delivers impressive performance, while the all-wheel-drive system ensures stability and control in various driving conditions. The interior is spacious, offering comfortable seating for up to five passengers and ample cargo space for all your gear. Advanced safety features provide peace of mind, and the state-of-the-art infotainment system keeps you connected and entertained on the go. With its sleek design and robust capabilities, the Breza X2 is the perfect companion for any journey."
+    },
+    {
+        "id":13,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/10best-trucks-suvs-2023-kia-telluride-105-1673299910.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "images":["https://hips.hearstapps.com/hmg-prod/images/10best-trucks-suvs-2023-kia-telluride-105-1673299910.jpg?crop=1xw:1xh;center,top&resize=980:*","https://hips.hearstapps.com/hmg-prod/images/10best-trucks-suvs-2023-kia-telluride-101-1673299910.jpg?crop=1xw:1xh;center,top&resize=980:*","https://hips.hearstapps.com/hmg-prod/images/10best-trucks-suvs-2023-kia-telluride-112-1673299911.jpg?crop=1xw:1xh;center,top&resize=980:*"],
+        "title": "Kia Telluride",
+        "make": "Kia",
+        "model": "Telluride",
+        "year":"2022",
+        "price":"3348900",
+        "specifications":"3.8L V6",
+        "decrption":"The 2024 Kia Telluride is a midsize SUV that combines style, comfort, and practicality. With a spacious and upscale interior, it offers seating for up to eight passengers, making it ideal for families and long road trips. The powerful 3.8L V6 engine delivers smooth and responsive performance, while advanced safety features and technology ensure a safe and enjoyable driving experience. The Telluride's impressive towing capacity and versatile cargo space make it a great choice for those who need both utility and luxury in their vehicle."
+    },
+    {
+        "id":14,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/2021-ford-mustang-mach-e-gt-1665-1640391077.jpg?crop=0.941xw:0.703xh;0.0545xw,0.264xh&resize=1200:*",
+        "images":["https://hips.hearstapps.com/hmg-prod/images/2021-ford-mustang-mach-e-gt-1665-1640391077.jpg?crop=0.941xw:0.703xh;0.0545xw,0.264xh&resize=1200:*","https://hips.hearstapps.com/hmg-prod/images/2021-ford-mustang-mach-e-gt-689-1640391074.jpg?crop=1xw:1xh;center,top&resize=980:*","https://hips.hearstapps.com/hmg-prod/images/2021-ford-mustang-mach-e-gt-589-1640391075.jpg?crop=0.699xw:0.530xh;0.269xw,0.439xh&resize=980:*"],
+        "title": "Ford Mustang Mach-E",
+        "make": "Ford",
+        "model": "Mach-E",
+        "year":"2017",
+        "price":"3674999",
+        "specifications":"Electric motor",
+        "decrption":"The 2022 Ford Mustang Mach-E is a groundbreaking all-electric SUV that combines the iconic Mustang heritage with cutting-edge electric vehicle technology. This stylish and high-performance vehicle offers a blend of exhilarating speed, impressive range, and advanced features. The Mach-E’s sleek design and spacious interior make it a versatile choice for both daily commuting and long-distance travel. With multiple configurations and battery options, it caters to a variety of driving preferences and needs. The Mustang Mach-E represents Ford's commitment to sustainability while delivering the thrill and performance that the Mustang name is known for."
+    },
+    {
+        "id":15,
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/10497/1697697558001/front-left-side-47.jpg?tr=w-664",
+        "images":["https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/10497/1697697558001/front-left-side-47.jpg?tr=w-664","https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/10497/1689584210485/side-view-(left)-90.jpg?tr=w-664","https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/10497/1689584210485/rear-left-view-121.jpg?tr=w-664"],
+        "title": "Baluno Viper",
+        "make": "Baluno Motors",
+        "model": "Viper",
+        "year":"2024",
+        "price":"3767512",
+        "specifications":"3.0L V6 Turbo",
+        "decrption":"The 2021 Baluno Viper is a premium midsize sedan designed to deliver an exhilarating driving experience while maintaining comfort and luxury. With its powerful V6 engine, the Viper offers impressive acceleration and dynamic handling. The sophisticated all-wheel-drive system ensures stability and confidence on any road surface. Inside, the Viper boasts a spacious, well-appointed cabin with high-quality materials and advanced technology. The latest safety and driver assistance features provide peace of mind, making the Baluno Viper an excellent choice for those seeking both performance and practicality in their daily drive."
+    },
+    {
+        "id":16,
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/swift-exterior-right-front-three-quarter-64.jpeg?isig=0&q=80",
+        "images":["https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/swift-exterior-right-front-three-quarter-64.jpeg?isig=0&q=80","https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/swift-exterior-right-front-three-quarter-63.jpeg?q=80","https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/swift-exterior-right-rear-three-quarter.jpeg?q=80"],
+        "title": "Suzuki Swift",
+        "make": "Suzuki",
+        "model": "Swift",
+        "year":"2022",
+        "price":"1255837",
+        "specifications":"1.2L Dualjet Petrol Engine",
+        "decrption":"The Suzuki Swift is a compact hatchback known for its sporty design, peppy performance, and excellent fuel efficiency. The 2023 model features a refreshed exterior with a bold front grille, LED projector headlamps, and sleek lines that give it a modern and dynamic look. Inside, the Swift offers a spacious cabin with comfortable seating for five, a user-friendly infotainment system, and a host of safety features including ABS, dual airbags, and a reverse parking camera."
+    }
+   
+]
+}
